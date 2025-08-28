@@ -1,0 +1,101 @@
+[
+    {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+            {
+                "text": "Developed a Python-based portfolio optimization model."
+            }
+        ]
+    },
+    {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+            {
+                "text": "Applied mean-variance optimization for diversified equity portfolios."
+            }
+        ]
+    },
+    {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+            {
+                "text": "Integrated live market data APIs."
+            }
+        ]
+    },
+    {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+            {
+                "text": "Created a Power BI dashboard for banking operations."
+            }
+        ]
+    },
+    {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+            {
+                "text": "Visualized settlement times and PIS compliance metrics."
+            }
+        ]
+    },
+    {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+            {
+                "text": "Included cross-border investment flows."
+            }
+        ]
+    },
+    {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+            {
+                "text": "Automated market research using Python."
+            }
+        ]
+    },
+    {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+            {
+                "text": "Utilized BeautifulSoup and Pandas for sector-specific scanning."
+            }
+        ]
+    },
+    {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+            {
+                "text": "Consolidated industry news, financial ratios, and competitor positioning."
+            }
+        ]
+    }
+]

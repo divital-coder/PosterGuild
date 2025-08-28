@@ -1,0 +1,590 @@
+[
+  {
+    "title": [
+      {
+        "alignment": "center",
+        "bullet": false,
+        "level": 0,
+        "font_size": 60,
+        "runs": [
+          {
+            "text": "Divyansh Goyal's Academic and Professional Journey",
+            "bold": true
+          }
+        ]
+      }
+    ],
+    "textbox1": [
+      {
+        "alignment": "center",
+        "bullet": false,
+        "level": 0,
+        "font_size": 36,
+        "runs": [
+          {
+            "text": "Divyansh Goyal\u00b9"
+          }
+        ]
+      },
+      {
+        "alignment": "center",
+        "bullet": false,
+        "level": 0,
+        "font_size": 36,
+        "runs": [
+          {
+            "text": "\u00b9Dr. Akhilesh Das Gupta Institute of Technology and Management"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "alignment": "left",
+        "bullet": false,
+        "level": 0,
+        "font_size": 60,
+        "runs": [
+          {
+            "text": "Education",
+            "bold": true
+          }
+        ]
+      }
+    ],
+    "textbox1": [
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Bachelor of Artificial Intelligence and Machine Learning, expected 2026."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Dr. Akhilesh Das Gupta Institute of Technology and Management."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "CGPA: 8.74 / 10."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Coursework includes:"
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Applied Mathematics, Physics, Chemistry."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Databases, Machine Learning, Probability, Statistics."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Linear Algebra, Numerical Analysis, Graph Networks, Deep Learning."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "alignment": "left",
+        "bullet": false,
+        "level": 0,
+        "font_size": 60,
+        "runs": [
+          {
+            "text": "Experience",
+            "bold": true
+          }
+        ]
+      }
+    ],
+    "textbox1": [
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "AI Engineer Intern at camel-ai.org (July 2025 - Present)."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Developed a multi-agent system-based desktop application."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Research Software Intern for Princeton University's HSF-INDIA project (June 2025 - Aug 2025)."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Provided Julia Interfaces to the HepMC3 Monte-Carlo Event Record Library."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Google Summer of Code 2025."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Developed a digital-twin in medical-imaging for advanced supervoxel visualization."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Machine Learning Intern at SciML (March 2025 - May 2025)."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Worked on SciMLOperators.jl Julia package."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Google Summer of Code 2024."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Contributed to medical imaging visualizer package MedEye3d.jl."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Builder at Buildspace (Aug 2023 - Sep 2023)."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Developed traffic analytics web application."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "alignment": "left",
+        "bullet": false,
+        "level": 0,
+        "font_size": 60,
+        "runs": [
+          {
+            "text": "Awards & Honors",
+            "bold": true
+          }
+        ]
+      }
+    ],
+    "textbox1": [
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Recipient of the O'Reilly DEIJ Scholarship."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Awarded in July 2023."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Selected as one of 500 recipients."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "alignment": "left",
+        "bullet": false,
+        "level": 0,
+        "font_size": 60,
+        "runs": [
+          {
+            "text": "Responsibilities",
+            "bold": true
+          }
+        ]
+      }
+    ],
+    "textbox1": [
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Camel-AI Distinguished Ambassador since Feb 2025."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Utilizes Camel-AI agent framework to build multi-agent systems."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Beta Microsoft Learn Student Ambassador since Nov 2023."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Completed 'Understand data science for machine learning' path."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Develops AI Projects using Microsoft Azure tools."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Delegate of Germany at International Model United Nations Association (IMUNA) in Feb 2021."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "alignment": "left",
+        "bullet": false,
+        "level": 0,
+        "font_size": 60,
+        "runs": [
+          {
+            "text": "Projects",
+            "bold": true
+          }
+        ]
+      }
+    ],
+    "textbox1": [
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "MedEye3d.jl visualizes CT and PET medical imaging data."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Migrated from external packages to base Julia macros."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Tomogram Search Agent analyzes protein tomograms."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Utilizes data from the CZI CryoET Data Portal."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "alignment": "left",
+        "bullet": false,
+        "level": 0,
+        "font_size": 60,
+        "runs": [
+          {
+            "text": "Skills",
+            "bold": true
+          }
+        ]
+      }
+    ],
+    "textbox1": [
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Expertise in AI Alignment and Multi-Agent systems."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Proficient in Distributed training and Inference Optimization."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Experience in Computational Biology."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Programming Languages/Tools: Julia, Python, C++, Javascript."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Familiar with Shell Scripting, Docker, Kubernetes, Azure."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Database technologies: MongoDB, Apache Hive, Spark, Airflow, PostgreSQL."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Libraries/Frameworks: Jax, SciML, PyTorch, Tensorflow, Hugging Face."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Data analysis tools: DataFrames, Pandas, Plotly, Dash."
+          }
+        ]
+      }
+    ]
+  }
+]

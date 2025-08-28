@@ -1,0 +1,57 @@
+[
+    {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+            {
+                "text": "Advanced proficiency in Excel and Python (Pandas, NumPy, Matplotlib, Scikit-learn)."
+            }
+        ]
+    },
+    {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+            {
+                "text": "Skilled in SQL, Power BI, Tableau, and Bloomberg Terminal."
+            }
+        ]
+    },
+    {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+            {
+                "text": "Fluent in English and Hindi."
+            }
+        ]
+    },
+    {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+            {
+                "text": "Interests include financial markets, economic policy, and applied data analytics."
+            }
+        ]
+    },
+    {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+            {
+                "text": "Enjoys travel and public speaking."
+            }
+        ]
+    }
+]

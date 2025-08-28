@@ -1,0 +1,68 @@
+[
+    {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+            {
+                "text": "University School of Management & Entrepreneurship, 2022 - 2024"
+            }
+        ]
+    },
+    {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+            {
+                "text": "MBA - Finance & Analytics"
+            }
+        ]
+    },
+    {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+            {
+                "text": "CGPA: 7.08 / 10"
+            }
+        ]
+    },
+    {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+            {
+                "text": "Key Courses: Predictive Analytics, Financial Risk Management, Investment Banking, Database Management, Python Programming."
+            }
+        ]
+    },
+    {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+            {
+                "text": "Deen Dayal Upadhyaya College, University of Delhi, 2018 - 2021"
+            }
+        ]
+    },
+    {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+            {
+                "text": "B.Com (Hons.)"
+            }
+        ]
+    }
+]

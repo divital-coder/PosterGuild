@@ -1,0 +1,36 @@
+[
+    {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+            {
+                "text": "Received O'Reilly Diversity, Equity, Inclusion and Justice Scholarship."
+            }
+        ]
+    },
+    {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+            {
+                "text": "Selected among 500 scholarship recipients.",
+                "bold": true
+            }
+        ]
+    },
+    {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+            {
+                "text": "Awarded in July 2023."
+            }
+        ]
+    }
+]

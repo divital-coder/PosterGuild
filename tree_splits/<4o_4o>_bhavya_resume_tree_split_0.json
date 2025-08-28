@@ -1,0 +1,420 @@
+{
+    "poster_width": 1200,
+    "poster_height": 900,
+    "poster_width_inches": 48.0,
+    "poster_height_inches": 36.0,
+    "panels": [
+        {
+            "panel_id": 0,
+            "section_name": "Poster Title & Author",
+            "tp": 0.04244762954796031,
+            "text_len": 154,
+            "gp": 0,
+            "figure_size": 0,
+            "figure_aspect": 1,
+            "sp": 0.03565792605317683,
+            "rp": 2.732171266068909
+        },
+        {
+            "panel_id": 1,
+            "section_name": "Experience",
+            "tp": 0.4886990077177508,
+            "text_len": 1773,
+            "gp": 0,
+            "figure_size": 0,
+            "figure_aspect": 1,
+            "sp": 0.17554245216766368,
+            "rp": 1.5743825510690101
+        },
+        {
+            "panel_id": 2,
+            "section_name": "Education",
+            "tp": 0.11659316427783903,
+            "text_len": 423,
+            "gp": 0,
+            "figure_size": 0,
+            "figure_aspect": 1,
+            "sp": 0.058900012232792,
+            "rp": 2.5398024184253183
+        },
+        {
+            "panel_id": 3,
+            "section_name": "Awards & Positions",
+            "tp": 0.14608599779492834,
+            "text_len": 530,
+            "gp": 0,
+            "figure_size": 0,
+            "figure_aspect": 1,
+            "sp": 0.06814500562022258,
+            "rp": 2.463283954864485
+        },
+        {
+            "panel_id": 4,
+            "section_name": "Skills & Interests",
+            "tp": 0.06697905181918412,
+            "text_len": 243,
+            "gp": 0,
+            "figure_size": 0,
+            "figure_aspect": 1,
+            "sp": 0.043347686908142447,
+            "rp": 2.6685250674061596
+        },
+        {
+            "panel_id": 5,
+            "section_name": "Projects",
+            "tp": 0.13919514884233739,
+            "text_len": 505,
+            "gp": 0,
+            "figure_size": 0,
+            "figure_aspect": 1,
+            "sp": 0.06598496043624347,
+            "rp": 2.4811621005562685
+        }
+    ],
+    "panel_arrangement": [
+        {
+            "panel_name": "Poster Title & Author",
+            "panel_id": 0,
+            "x": 0,
+            "y": 0,
+            "width": 1200,
+            "height": 90.0
+        },
+        {
+            "panel_name": "Experience",
+            "panel_id": 1,
+            "x": 0,
+            "y": 90.0,
+            "width": 682.9745511827414,
+            "height": 606.5001347747784
+        },
+        {
+            "panel_name": "Education",
+            "panel_id": 2,
+            "x": 0,
+            "y": 696.5001347747784,
+            "width": 682.9745511827414,
+            "height": 203.49986522522158
+        },
+        {
+            "panel_name": "Awards & Positions",
+            "panel_id": 3,
+            "x": 682.9745511827414,
+            "y": 90.0,
+            "width": 517.0254488172586,
+            "height": 311.0107308179663
+        },
+        {
+            "panel_name": "Skills & Interests",
+            "panel_id": 4,
+            "x": 682.9745511827414,
+            "y": 401.0107308179663,
+            "width": 517.0254488172586,
+            "height": 197.83688711838627
+        },
+        {
+            "panel_name": "Projects",
+            "panel_id": 5,
+            "x": 682.9745511827414,
+            "y": 598.8476179363525,
+            "width": 517.0254488172586,
+            "height": 301.15238206364745
+        }
+    ],
+    "figure_arrangement": [],
+    "text_arrangement": [
+        {
+            "panel_id": 0,
+            "x": 3.0,
+            "y": 3.0,
+            "width": 1194.0,
+            "height": 37.333333333333336,
+            "textbox_id": 0,
+            "textbox_name": "p<Poster Title & Author>_t0",
+            "num_chars": 410
+        },
+        {
+            "panel_id": 0,
+            "x": 3.0,
+            "y": 40.333333333333336,
+            "width": 1194.0,
+            "height": 46.666666666666664,
+            "textbox_id": 0,
+            "textbox_name": "p<Poster Title & Author>_t1",
+            "num_chars": 410
+        },
+        {
+            "panel_id": 1,
+            "x": 3.0,
+            "y": 93.0,
+            "width": 676.9745511827414,
+            "height": 32.0,
+            "textbox_id": 0,
+            "textbox_name": "p<Experience>_t0",
+            "num_chars": 230
+        },
+        {
+            "panel_id": 1,
+            "x": 3.0,
+            "y": 125.0,
+            "width": 676.9745511827414,
+            "height": 568.5001347747784,
+            "textbox_id": 1,
+            "textbox_name": "p<Experience>_t1",
+            "num_chars": 2300
+        },
+        {
+            "panel_id": 2,
+            "x": 3.0,
+            "y": 699.5001347747784,
+            "width": 676.9745511827414,
+            "height": 32.0,
+            "textbox_id": 0,
+            "textbox_name": "p<Education>_t0",
+            "num_chars": 230
+        },
+        {
+            "panel_id": 2,
+            "x": 3.0,
+            "y": 731.5001347747784,
+            "width": 676.9745511827414,
+            "height": 165.49986522522158,
+            "textbox_id": 1,
+            "textbox_name": "p<Education>_t1",
+            "num_chars": 690
+        },
+        {
+            "panel_id": 3,
+            "x": 685.9745511827414,
+            "y": 93.0,
+            "width": 511.0254488172586,
+            "height": 32.0,
+            "textbox_id": 0,
+            "textbox_name": "p<Awards & Positions>_t0",
+            "num_chars": 170
+        },
+        {
+            "panel_id": 3,
+            "x": 685.9745511827414,
+            "y": 125.0,
+            "width": 511.0254488172586,
+            "height": 273.0107308179663,
+            "textbox_id": 1,
+            "textbox_name": "p<Awards & Positions>_t1",
+            "num_chars": 850
+        },
+        {
+            "panel_id": 4,
+            "x": 685.9745511827414,
+            "y": 404.0107308179663,
+            "width": 511.0254488172586,
+            "height": 32.0,
+            "textbox_id": 0,
+            "textbox_name": "p<Skills & Interests>_t0",
+            "num_chars": 170
+        },
+        {
+            "panel_id": 4,
+            "x": 685.9745511827414,
+            "y": 436.0107308179663,
+            "width": 511.0254488172586,
+            "height": 159.83688711838627,
+            "textbox_id": 1,
+            "textbox_name": "p<Skills & Interests>_t1",
+            "num_chars": 340
+        },
+        {
+            "panel_id": 5,
+            "x": 685.9745511827414,
+            "y": 601.8476179363525,
+            "width": 511.0254488172586,
+            "height": 32.0,
+            "textbox_id": 0,
+            "textbox_name": "p<Projects>_t0",
+            "num_chars": 170
+        },
+        {
+            "panel_id": 5,
+            "x": 685.9745511827414,
+            "y": 633.8476179363525,
+            "width": 511.0254488172586,
+            "height": 263.15238206364745,
+            "textbox_id": 1,
+            "textbox_name": "p<Projects>_t1",
+            "num_chars": 680
+        }
+    ],
+    "panel_arrangement_inches": [
+        {
+            "panel_name": "Poster Title & Author",
+            "panel_id": 0,
+            "x": 0.0,
+            "y": 0.0,
+            "width": 48.0,
+            "height": 3.6
+        },
+        {
+            "panel_name": "Experience",
+            "panel_id": 1,
+            "x": 0.0,
+            "y": 3.6,
+            "width": 27.318982047309657,
+            "height": 24.260005390991136
+        },
+        {
+            "panel_name": "Education",
+            "panel_id": 2,
+            "x": 0.0,
+            "y": 27.860005390991137,
+            "width": 27.318982047309657,
+            "height": 8.139994609008863
+        },
+        {
+            "panel_name": "Awards & Positions",
+            "panel_id": 3,
+            "x": 27.318982047309657,
+            "y": 3.6,
+            "width": 20.681017952690343,
+            "height": 12.440429232718651
+        },
+        {
+            "panel_name": "Skills & Interests",
+            "panel_id": 4,
+            "x": 27.318982047309657,
+            "y": 16.04042923271865,
+            "width": 20.681017952690343,
+            "height": 7.913475484735451
+        },
+        {
+            "panel_name": "Projects",
+            "panel_id": 5,
+            "x": 27.318982047309657,
+            "y": 23.9539047174541,
+            "width": 20.681017952690343,
+            "height": 12.046095282545899
+        }
+    ],
+    "figure_arrangement_inches": [],
+    "text_arrangement_inches": [
+        {
+            "panel_id": 0,
+            "x": 0.12,
+            "y": 0.12,
+            "width": 47.76,
+            "height": 1.4933333333333334,
+            "textbox_id": 0,
+            "textbox_name": "p<Poster Title & Author>_t0",
+            "num_chars": 410
+        },
+        {
+            "panel_id": 0,
+            "x": 0.12,
+            "y": 1.6133333333333335,
+            "width": 47.76,
+            "height": 1.8666666666666665,
+            "textbox_id": 0,
+            "textbox_name": "p<Poster Title & Author>_t1",
+            "num_chars": 410
+        },
+        {
+            "panel_id": 1,
+            "x": 0.12,
+            "y": 3.72,
+            "width": 27.078982047309655,
+            "height": 1.28,
+            "textbox_id": 0,
+            "textbox_name": "p<Experience>_t0",
+            "num_chars": 230
+        },
+        {
+            "panel_id": 1,
+            "x": 0.12,
+            "y": 5.0,
+            "width": 27.078982047309655,
+            "height": 22.740005390991136,
+            "textbox_id": 1,
+            "textbox_name": "p<Experience>_t1",
+            "num_chars": 2300
+        },
+        {
+            "panel_id": 2,
+            "x": 0.12,
+            "y": 27.98000539099114,
+            "width": 27.078982047309655,
+            "height": 1.28,
+            "textbox_id": 0,
+            "textbox_name": "p<Education>_t0",
+            "num_chars": 230
+        },
+        {
+            "panel_id": 2,
+            "x": 0.12,
+            "y": 29.260005390991136,
+            "width": 27.078982047309655,
+            "height": 6.619994609008863,
+            "textbox_id": 1,
+            "textbox_name": "p<Education>_t1",
+            "num_chars": 690
+        },
+        {
+            "panel_id": 3,
+            "x": 27.438982047309654,
+            "y": 3.72,
+            "width": 20.441017952690345,
+            "height": 1.28,
+            "textbox_id": 0,
+            "textbox_name": "p<Awards & Positions>_t0",
+            "num_chars": 170
+        },
+        {
+            "panel_id": 3,
+            "x": 27.438982047309654,
+            "y": 5.0,
+            "width": 20.441017952690345,
+            "height": 10.920429232718652,
+            "textbox_id": 1,
+            "textbox_name": "p<Awards & Positions>_t1",
+            "num_chars": 850
+        },
+        {
+            "panel_id": 4,
+            "x": 27.438982047309654,
+            "y": 16.160429232718652,
+            "width": 20.441017952690345,
+            "height": 1.28,
+            "textbox_id": 0,
+            "textbox_name": "p<Skills & Interests>_t0",
+            "num_chars": 170
+        },
+        {
+            "panel_id": 4,
+            "x": 27.438982047309654,
+            "y": 17.440429232718653,
+            "width": 20.441017952690345,
+            "height": 6.3934754847354505,
+            "textbox_id": 1,
+            "textbox_name": "p<Skills & Interests>_t1",
+            "num_chars": 340
+        },
+        {
+            "panel_id": 5,
+            "x": 27.438982047309654,
+            "y": 24.073904717454102,
+            "width": 20.441017952690345,
+            "height": 1.28,
+            "textbox_id": 0,
+            "textbox_name": "p<Projects>_t0",
+            "num_chars": 170
+        },
+        {
+            "panel_id": 5,
+            "x": 27.438982047309654,
+            "y": 25.353904717454103,
+            "width": 20.441017952690345,
+            "height": 10.526095282545898,
+            "textbox_id": 1,
+            "textbox_name": "p<Projects>_t1",
+            "num_chars": 680
+        }
+    ]
+}

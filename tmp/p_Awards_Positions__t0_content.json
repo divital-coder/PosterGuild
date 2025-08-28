@@ -1,0 +1,24 @@
+[
+    {
+        "alignment": "left",
+        "bullet": false,
+        "level": 0,
+        "font_size": 60,
+        "runs": [
+            {
+                "text": "Awards & Positions",
+                "bold": true,
+                "color": [
+                    255,
+                    255,
+                    255
+                ],
+                "fill_color": [
+                    47,
+                    85,
+                    151
+                ]
+            }
+        ]
+    }
+]

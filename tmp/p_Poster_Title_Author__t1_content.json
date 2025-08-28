@@ -1,0 +1,44 @@
+[
+    {
+        "alignment": "center",
+        "bullet": false,
+        "level": 0,
+        "font_size": 36,
+        "runs": [
+            {
+                "text": "Bhavya Goyal\u00b9",
+                "color": [
+                    255,
+                    255,
+                    255
+                ],
+                "fill_color": [
+                    47,
+                    85,
+                    151
+                ]
+            }
+        ]
+    },
+    {
+        "alignment": "center",
+        "bullet": false,
+        "level": 0,
+        "font_size": 36,
+        "runs": [
+            {
+                "text": "\u00b9KPMG, Federal Bank, Lufthansa German Airlines, Credain, Chegg Inc.",
+                "color": [
+                    255,
+                    255,
+                    255
+                ],
+                "fill_color": [
+                    47,
+                    85,
+                    151
+                ]
+            }
+        ]
+    }
+]

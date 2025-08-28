@@ -1,0 +1,37 @@
+{
+    "meta": {
+        "poster_title": "Divyansh Goyal's Academic and Professional Journey",
+        "authors": "Divyansh Goyal",
+        "affiliations": "Dr. Akhilesh Das Gupta Institute of Technology and Management"
+    },
+    "sections": [
+        {
+            "title": "Poster Title & Author",
+            "content": "Divyansh Goyal's Academic and Professional Journey\nDivyansh Goyal\nDr. Akhilesh Das Gupta Institute of Technology and Management"
+        },
+        {
+            "title": "Education",
+            "content": "Bachelor of Artificial Intelligence and Machine Learning, expected 2026, Dr. Akhilesh Das Gupta Institute of Technology and Management, CGPA: 8.74 / 10. Coursework includes Applied Mathematics, Physics, Chemistry, Databases, Machine Learning, Probability, Statistics, Linear Algebra, Numerical Analysis, Graph Networks, Deep Learning."
+        },
+        {
+            "title": "Experience",
+            "content": "AI Engineer Intern at camel-ai.org (July 2025 - Present), developing a multi-agent system-based desktop application. Research Software Intern for Princeton University's HSF-INDIA project (June 2025 - Aug 2025), providing Julia Interfaces to the HepMC3 Monte-Carlo Event Record Library. Google Summer of Code 2025, developing a digital-twin in medical-imaging for advanced supervoxel visualization. Machine Learning Intern at SciML (March 2025 - May 2025), worked on SciMLOperators.jl Julia package. Google Summer of Code 2024, contributed to medical imaging visualizer package MedEye3d.jl. Builder at Buildspace (Aug 2023 - Sep 2023), developed traffic analytics web application."
+        },
+        {
+            "title": "Awards & Honors",
+            "content": "O'Reilly Diversity, Equity, Inclusion and Justice Scholarship (DEIJ) recipient in July 2023, selected as one of the 500 scholarship recipients."
+        },
+        {
+            "title": "Responsibilities",
+            "content": "Camel-AI Distinguished Ambassador since Feb 2025, utilizing Camel-AI agent framework to build multi-agent systems. Beta Microsoft Learn Student Ambassador since Nov 2023, completed 'Understand data science for machine learning' path, developing AI Projects using Microsoft Azure tools. Delegate of Germany at International Model United Nations Association (IMUNA) in Feb 2021, raised topics under UNESCO."
+        },
+        {
+            "title": "Projects",
+            "content": "MedEye3d.jl, a package for visualization of CT and PET medical imaging data, migrated reliance from external packages to base Julia macros. Tomogram Search Agent, searching and analyzing protein tomograms from the CZI CryoET Data Portal."
+        },
+        {
+            "title": "Skills",
+            "content": "AI Alignment, Multi-Agent systems, Distributed training, Inference Optimization, Computational Biology. Programming Languages/Tools: Julia, Python, C++, Javascript, Shell Scripting, Docker, Kubernetes, Azure, MongoDB, Apache Hive, Spark, Airflow, PostgreSQL. Libraries/Frameworks: Jax, SciML, PyTorch, Tensorflow, Hugging Face, DataFrames, Pandas, Plotly, Dash, MonAI, Electron. Languages: English, Hindi."
+        }
+    ]
+}

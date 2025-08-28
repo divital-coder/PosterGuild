@@ -1,0 +1,605 @@
+[
+  {
+    "title": [
+      {
+        "alignment": "center",
+        "bullet": false,
+        "level": 0,
+        "font_size": 60,
+        "runs": [
+          {
+            "text": "Bhavya Goyal's Professional Experience and Education",
+            "bold": true
+          }
+        ]
+      }
+    ],
+    "textbox1": [
+      {
+        "alignment": "center",
+        "bullet": false,
+        "level": 0,
+        "font_size": 36,
+        "runs": [
+          {
+            "text": "Bhavya Goyal\u00b9"
+          }
+        ]
+      },
+      {
+        "alignment": "center",
+        "bullet": false,
+        "level": 0,
+        "font_size": 36,
+        "runs": [
+          {
+            "text": "\u00b9KPMG, Federal Bank, Lufthansa German Airlines, Credain, Chegg Inc."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "alignment": "left",
+        "bullet": false,
+        "level": 0,
+        "font_size": 60,
+        "runs": [
+          {
+            "text": "Experience",
+            "bold": true
+          }
+        ]
+      }
+    ],
+    "textbox1": [
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "KPMG (KGS - UK Research & Insights), Delhi, India - Business Associate, Apr 2025 - Present"
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Conducted market research for sector-specific strategies."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Developed financial models for decision-making."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Produced client-ready deliverables."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Federal Bank, Officer - Junior Management Grade 1, Delhi, India, Oct 2024 - Mar 2025"
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Optimized capital market operations."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Managed PIS compliance and settlements."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Streamlined back-office systems."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Lufthansa German Airlines, Business Development Intern"
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Built lead pipelines for market expansion."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Closed enterprise-level deals worth 1.4 crore."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Strengthened client relationships."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Credain - Global Banking Simplified, Finance Intern, Remote, Dec 2022 - Feb 2023"
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Conducted market research and financial analysis."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Designed portfolio optimization models."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Chegg Inc., Subject Matter Expert - Business & Operations Mgmt, Remote, Sep 2020 - Dec 2020"
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Delivered 98%+ accurate solutions to queries."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "alignment": "left",
+        "bullet": false,
+        "level": 0,
+        "font_size": 60,
+        "runs": [
+          {
+            "text": "Education",
+            "bold": true
+          }
+        ]
+      }
+    ],
+    "textbox1": [
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "University School of Management & Entrepreneurship, 2022 - 2024"
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "MBA - Finance & Analytics, CGPA: 7.08 / 10"
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 2,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Key Courses: Predictive Analytics, Financial Risk Management, Investment Banking, Database Management, Python Programming."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Deen Dayal Upadhyaya College, University of Delhi, 2018 - 2021"
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "B.Com (Hons.), CGPA: 6.97 / 10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "alignment": "left",
+        "bullet": false,
+        "level": 0,
+        "font_size": 60,
+        "runs": [
+          {
+            "text": "Awards & Positions",
+            "bold": true
+          }
+        ]
+      }
+    ],
+    "textbox1": [
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "McKinsey Forward Program: Trained in adaptability, resilience, problem-solving, and communication for impact."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "World Bank Youth Summit Delegate: Engaged with policymakers on climate action, digital transformation, and creative industries."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Stanford Code in Place 2025: Built Python applications and final capstone integrating programming fundamentals."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "CBSE Merit Certificate: Top 0.1% nationwide in Class 10 subjects."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "IYNA Neuroscience Program: Completed intensive modules on neurodevelopment, cognition, and disease."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "alignment": "left",
+        "bullet": false,
+        "level": 0,
+        "font_size": 60,
+        "runs": [
+          {
+            "text": "Skills & Interests",
+            "bold": true
+          }
+        ]
+      }
+    ],
+    "textbox1": [
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Proficient in advanced Excel and Python libraries like Pandas and NumPy."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Experienced with data visualization tools such as Power BI and Tableau."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Skilled in using SQL for database management."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Familiar with Bloomberg Terminal for financial analysis."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Languages: Fluent in English and Hindi."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Interests include financial markets and economic policy."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Enjoys applied data analytics and public speaking."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "alignment": "left",
+        "bullet": false,
+        "level": 0,
+        "font_size": 60,
+        "runs": [
+          {
+            "text": "Projects",
+            "bold": true
+          }
+        ]
+      }
+    ],
+    "textbox1": [
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Developed a Python-based portfolio optimization model."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Applied mean-variance optimization for diversified equity portfolios."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Integrated live market data APIs."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Created a Power BI dashboard for banking operations."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Visualized settlement times and PIS compliance metrics."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Included cross-border investment flows."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Automated market research using Python."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Used BeautifulSoup and Pandas for sector-specific scanning."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Consolidated industry news, financial ratios, and competitor positioning."
+          }
+        ]
+      }
+    ]
+  }
+]

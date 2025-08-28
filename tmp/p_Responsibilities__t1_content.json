@@ -1,0 +1,71 @@
+[
+    {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+            {
+                "text": "Participated in the International Youth Neuroscience Association virtual program."
+            }
+        ]
+    },
+    {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+            {
+                "text": "Covered various neuroscience topics.",
+                "italic": true
+            }
+        ]
+    },
+    {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+            {
+                "text": "Engaged as a delegate at the World Bank Youth Summit 2025."
+            }
+        ]
+    },
+    {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+            {
+                "text": "Focused on climate action and digital transformation.",
+                "italic": true
+            }
+        ]
+    },
+    {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+            {
+                "text": "Represented Afghanistan at the International Model United Nations Association."
+            }
+        ]
+    },
+    {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+            {
+                "text": "Discussed economic growth and civil rights.",
+                "italic": true
+            }
+        ]
+    }
+]

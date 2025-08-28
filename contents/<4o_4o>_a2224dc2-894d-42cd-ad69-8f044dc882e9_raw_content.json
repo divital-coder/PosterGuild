@@ -1,0 +1,33 @@
+{
+    "meta": {
+        "poster_title": "Bhavya Goyal's Professional Experience and Education",
+        "authors": "Bhavya Goyal",
+        "affiliations": "KPMG, Federal Bank, Lufthansa German Airlines, Credain, Chegg Inc."
+    },
+    "sections": [
+        {
+            "title": "Poster Title & Author",
+            "content": "Bhavya Goyal's Professional Experience and Education\n\nAuthor: Bhavya Goyal\nAffiliations: KPMG, Federal Bank, Lufthansa German Airlines, Credain, Chegg Inc.\nContact: bhavyagoyal.workday@gmail.com"
+        },
+        {
+            "title": "Experience",
+            "content": "KPMG (KGS - UK Research & Insights), Delhi, India\nBusiness Associate, Apr 2025 - Present\n- Performed deep-dive market research using financial statements, macroeconomic indicators, and proprietary datasets to design sector-specific go-to-market strategies.\n- Developed financial models for portfolio optimization and data-driven forecasting, enhancing decision-making for leadership.\n- Produced high-impact client-ready deliverables - executive presentations, dashboards, and reports - tailored to partner and account needs.\n\nFederal Bank, Officer - Junior Management Grade 1, Delhi, India, Oct 2024 - Mar 2025\n- Optimized capital market operations within RBI & SEBI frameworks, ensuring timely execution of high-value transactions.\n- Managed PIS compliance, capital market settlements, and depository services for domestic & cross-border investments.\n- Streamlined back-office systems to reduce settlement risk and improve compliance tracking.\n\nLufthansa German Airlines, Business Development Intern\n- Built high-impact lead pipelines, enabling strategic market entry and expansion.\n- Closed 7 enterprise-level deals worth 1.4 crore, leveraging data-backed negotiation strategies.\n- Strengthened client relationships through targeted engagement and solution-based selling.\n\nCredain - Global Banking Simplified, Finance Intern, Remote, Dec 2022 - Feb 2023\n- Conducted market research and financial analysis to identify investment opportunities and risk factors.\n- Designed portfolio optimization models, improving forecast accuracy and investment return analysis.\n\nChegg Inc., Subject Matter Expert - Business & Operations Mgmt, Remote, Sep 2020 - Dec 2020\n- Delivered 98%+ accurate solutions to business and operations management queries, meeting stringent academic standards."
+        },
+        {
+            "title": "Education",
+            "content": "University School of Management & Entrepreneurship, 2022 - 2024\nMBA - Finance & Analytics, CGPA: 7.08 / 10\n- Key Courses: Predictive Analytics, Financial Risk Management, Investment Banking, Database Management, Python Programming.\n\nDeen Dayal Upadhyaya College, University of Delhi, 2018 - 2021\nB.Com (Hons.), CGPA: 6.97 / 10\n- Key Courses: Financial Accounting, Cost Accounting, International Business, Ethics & Governance."
+        },
+        {
+            "title": "Awards & Positions",
+            "content": "- McKinsey Forward Program - Trained in adaptability, resilience, problem-solving, and communication for impact.\n- World Bank Youth Summit Delegate - Engaged with policymakers on climate action, digital transformation, and creative industries.\n- Stanford Code in Place 2025 - Built Python applications and final capstone integrating programming fundamentals.\n- CBSE Merit Certificate - Top 0.1% nationwide in Class 10 subjects.\n- IYNA Neuroscience Program - Completed intensive modules on neurodevelopment, cognition, and disease."
+        },
+        {
+            "title": "Skills & Interests",
+            "content": "Tools/Tech: Excel (Advanced), Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL, Power BI, Tableau, Bloomberg Terminal\nLanguages: English, Hindi\nInterests: Financial markets, economic policy, applied data analytics, travel, public speaking"
+        },
+        {
+            "title": "Projects",
+            "content": "Portfolio Optimization Model\n- Developed Python-based model applying mean-variance optimization for diversified equity portfolios, integrating live market data APIs.\n\nBanking Operations Dashboard\n- Created a Power BI dashboard visualizing settlement times, PIS compliance metrics, and cross-border investment flows.\n\nMarket Research Automation Tool\n- Automated sector-specific market scanning using Python (BeautifulSoup, Pandas) to consolidate industry news, financial ratios, and competitor positioning."
+        }
+    ]
+}

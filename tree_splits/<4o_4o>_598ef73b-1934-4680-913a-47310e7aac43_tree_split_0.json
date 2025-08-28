@@ -1,0 +1,487 @@
+{
+    "poster_width": 1200,
+    "poster_height": 900,
+    "poster_width_inches": 48.0,
+    "poster_height_inches": 36.0,
+    "panels": [
+        {
+            "panel_id": 0,
+            "section_name": "Poster Title & Author",
+            "tp": 0.04331254331254331,
+            "text_len": 125,
+            "gp": 0,
+            "figure_size": 0,
+            "figure_aspect": 1,
+            "sp": 0.03592904690121723,
+            "rp": 2.729927267629757
+        },
+        {
+            "panel_id": 1,
+            "section_name": "Education",
+            "tp": 0.2591822591822592,
+            "text_len": 748,
+            "gp": 0,
+            "figure_size": 0,
+            "figure_aspect": 1,
+            "sp": 0.10359681082107403,
+            "rp": 2.1698583621414764
+        },
+        {
+            "panel_id": 2,
+            "section_name": "Experience",
+            "tp": 0.30561330561330563,
+            "text_len": 882,
+            "gp": 0,
+            "figure_size": 0,
+            "figure_aspect": 1,
+            "sp": 0.11815135394348304,
+            "rp": 2.0493941031760996
+        },
+        {
+            "panel_id": 3,
+            "section_name": "Awards & Honors",
+            "tp": 0.12993762993762994,
+            "text_len": 375,
+            "gp": 0,
+            "figure_size": 0,
+            "figure_aspect": 1,
+            "sp": 0.06308304526392061,
+            "rp": 2.5051805158286813
+        },
+        {
+            "panel_id": 4,
+            "section_name": "Responsibilities",
+            "tp": 0.13721413721413722,
+            "text_len": 396,
+            "gp": 0,
+            "figure_size": 0,
+            "figure_aspect": 1,
+            "sp": 0.0653639811263877,
+            "rp": 2.486301788677391
+        },
+        {
+            "panel_id": 5,
+            "section_name": "Volunteering",
+            "tp": 0.05682605682605683,
+            "text_len": 164,
+            "gp": 0,
+            "figure_size": 0,
+            "figure_aspect": 1,
+            "sp": 0.04016507064579895,
+            "rp": 2.6948667743487893
+        },
+        {
+            "panel_id": 6,
+            "section_name": "Skills",
+            "tp": 0.06791406791406791,
+            "text_len": 196,
+            "gp": 0,
+            "figure_size": 0,
+            "figure_aspect": 1,
+            "sp": 0.04364078243622499,
+            "rp": 2.666099190118252
+        }
+    ],
+    "panel_arrangement": [
+        {
+            "panel_name": "Poster Title & Author",
+            "panel_id": 0,
+            "x": 0,
+            "y": 0,
+            "width": 1200,
+            "height": 90.0
+        },
+        {
+            "panel_name": "Education",
+            "panel_id": 1,
+            "x": 0,
+            "y": 90.0,
+            "width": 613.1270909390375,
+            "height": 378.4176381083727
+        },
+        {
+            "panel_name": "Experience",
+            "panel_id": 2,
+            "x": 0,
+            "y": 468.4176381083727,
+            "width": 613.1270909390375,
+            "height": 431.5823618916273
+        },
+        {
+            "panel_name": "Awards & Honors",
+            "panel_id": 3,
+            "x": 613.1270909390375,
+            "y": 90.0,
+            "width": 586.8729090609625,
+            "height": 240.73768417561735
+        },
+        {
+            "panel_name": "Responsibilities",
+            "panel_id": 4,
+            "x": 613.1270909390375,
+            "y": 330.73768417561735,
+            "width": 586.8729090609625,
+            "height": 249.44219764648955
+        },
+        {
+            "panel_name": "Volunteering",
+            "panel_id": 5,
+            "x": 613.1270909390375,
+            "y": 580.1798818221068,
+            "width": 586.8729090609625,
+            "height": 153.27804882542483
+        },
+        {
+            "panel_name": "Skills",
+            "panel_id": 6,
+            "x": 613.1270909390375,
+            "y": 733.4579306475317,
+            "width": 586.8729090609625,
+            "height": 166.54206935246827
+        }
+    ],
+    "figure_arrangement": [],
+    "text_arrangement": [
+        {
+            "panel_id": 0,
+            "x": 3.0,
+            "y": 3.0,
+            "width": 1194.0,
+            "height": 37.333333333333336,
+            "textbox_id": 0,
+            "textbox_name": "p<Poster Title & Author>_t0",
+            "num_chars": 410
+        },
+        {
+            "panel_id": 0,
+            "x": 3.0,
+            "y": 40.333333333333336,
+            "width": 1194.0,
+            "height": 46.666666666666664,
+            "textbox_id": 0,
+            "textbox_name": "p<Poster Title & Author>_t1",
+            "num_chars": 410
+        },
+        {
+            "panel_id": 1,
+            "x": 3.0,
+            "y": 93.0,
+            "width": 607.1270909390375,
+            "height": 32.0,
+            "textbox_id": 0,
+            "textbox_name": "p<Education>_t0",
+            "num_chars": 210
+        },
+        {
+            "panel_id": 1,
+            "x": 3.0,
+            "y": 125.0,
+            "width": 607.1270909390375,
+            "height": 340.4176381083727,
+            "textbox_id": 1,
+            "textbox_name": "p<Education>_t1",
+            "num_chars": 1260
+        },
+        {
+            "panel_id": 2,
+            "x": 3.0,
+            "y": 471.4176381083727,
+            "width": 607.1270909390375,
+            "height": 32.0,
+            "textbox_id": 0,
+            "textbox_name": "p<Experience>_t0",
+            "num_chars": 210
+        },
+        {
+            "panel_id": 2,
+            "x": 3.0,
+            "y": 503.4176381083727,
+            "width": 607.1270909390375,
+            "height": 393.5823618916273,
+            "textbox_id": 1,
+            "textbox_name": "p<Experience>_t1",
+            "num_chars": 1470
+        },
+        {
+            "panel_id": 3,
+            "x": 616.1270909390375,
+            "y": 93.0,
+            "width": 580.8729090609625,
+            "height": 32.0,
+            "textbox_id": 0,
+            "textbox_name": "p<Awards & Honors>_t0",
+            "num_chars": 200
+        },
+        {
+            "panel_id": 3,
+            "x": 616.1270909390375,
+            "y": 125.0,
+            "width": 580.8729090609625,
+            "height": 202.73768417561735,
+            "textbox_id": 1,
+            "textbox_name": "p<Awards & Honors>_t1",
+            "num_chars": 600
+        },
+        {
+            "panel_id": 4,
+            "x": 616.1270909390375,
+            "y": 333.73768417561735,
+            "width": 580.8729090609625,
+            "height": 32.0,
+            "textbox_id": 0,
+            "textbox_name": "p<Responsibilities>_t0",
+            "num_chars": 200
+        },
+        {
+            "panel_id": 4,
+            "x": 616.1270909390375,
+            "y": 365.73768417561735,
+            "width": 580.8729090609625,
+            "height": 211.44219764648955,
+            "textbox_id": 1,
+            "textbox_name": "p<Responsibilities>_t1",
+            "num_chars": 600
+        },
+        {
+            "panel_id": 5,
+            "x": 616.1270909390375,
+            "y": 583.1798818221068,
+            "width": 580.8729090609625,
+            "height": 32.0,
+            "textbox_id": 0,
+            "textbox_name": "p<Volunteering>_t0",
+            "num_chars": 200
+        },
+        {
+            "panel_id": 5,
+            "x": 616.1270909390375,
+            "y": 615.1798818221068,
+            "width": 580.8729090609625,
+            "height": 115.27804882542483,
+            "textbox_id": 1,
+            "textbox_name": "p<Volunteering>_t1",
+            "num_chars": 400
+        },
+        {
+            "panel_id": 6,
+            "x": 616.1270909390375,
+            "y": 736.4579306475317,
+            "width": 580.8729090609625,
+            "height": 32.0,
+            "textbox_id": 0,
+            "textbox_name": "p<Skills>_t0",
+            "num_chars": 200
+        },
+        {
+            "panel_id": 6,
+            "x": 616.1270909390375,
+            "y": 768.4579306475317,
+            "width": 580.8729090609625,
+            "height": 128.54206935246827,
+            "textbox_id": 1,
+            "textbox_name": "p<Skills>_t1",
+            "num_chars": 400
+        }
+    ],
+    "panel_arrangement_inches": [
+        {
+            "panel_name": "Poster Title & Author",
+            "panel_id": 0,
+            "x": 0.0,
+            "y": 0.0,
+            "width": 48.0,
+            "height": 3.6
+        },
+        {
+            "panel_name": "Education",
+            "panel_id": 1,
+            "x": 0.0,
+            "y": 3.6,
+            "width": 24.5250836375615,
+            "height": 15.136705524334909
+        },
+        {
+            "panel_name": "Experience",
+            "panel_id": 2,
+            "x": 0.0,
+            "y": 18.73670552433491,
+            "width": 24.5250836375615,
+            "height": 17.26329447566509
+        },
+        {
+            "panel_name": "Awards & Honors",
+            "panel_id": 3,
+            "x": 24.5250836375615,
+            "y": 3.6,
+            "width": 23.4749163624385,
+            "height": 9.629507367024694
+        },
+        {
+            "panel_name": "Responsibilities",
+            "panel_id": 4,
+            "x": 24.5250836375615,
+            "y": 13.229507367024693,
+            "width": 23.4749163624385,
+            "height": 9.977687905859582
+        },
+        {
+            "panel_name": "Volunteering",
+            "panel_id": 5,
+            "x": 24.5250836375615,
+            "y": 23.207195272884274,
+            "width": 23.4749163624385,
+            "height": 6.131121953016994
+        },
+        {
+            "panel_name": "Skills",
+            "panel_id": 6,
+            "x": 24.5250836375615,
+            "y": 29.338317225901267,
+            "width": 23.4749163624385,
+            "height": 6.661682774098731
+        }
+    ],
+    "figure_arrangement_inches": [],
+    "text_arrangement_inches": [
+        {
+            "panel_id": 0,
+            "x": 0.12,
+            "y": 0.12,
+            "width": 47.76,
+            "height": 1.4933333333333334,
+            "textbox_id": 0,
+            "textbox_name": "p<Poster Title & Author>_t0",
+            "num_chars": 410
+        },
+        {
+            "panel_id": 0,
+            "x": 0.12,
+            "y": 1.6133333333333335,
+            "width": 47.76,
+            "height": 1.8666666666666665,
+            "textbox_id": 0,
+            "textbox_name": "p<Poster Title & Author>_t1",
+            "num_chars": 410
+        },
+        {
+            "panel_id": 1,
+            "x": 0.12,
+            "y": 3.72,
+            "width": 24.285083637561502,
+            "height": 1.28,
+            "textbox_id": 0,
+            "textbox_name": "p<Education>_t0",
+            "num_chars": 210
+        },
+        {
+            "panel_id": 1,
+            "x": 0.12,
+            "y": 5.0,
+            "width": 24.285083637561502,
+            "height": 13.61670552433491,
+            "textbox_id": 1,
+            "textbox_name": "p<Education>_t1",
+            "num_chars": 1260
+        },
+        {
+            "panel_id": 2,
+            "x": 0.12,
+            "y": 18.85670552433491,
+            "width": 24.285083637561502,
+            "height": 1.28,
+            "textbox_id": 0,
+            "textbox_name": "p<Experience>_t0",
+            "num_chars": 210
+        },
+        {
+            "panel_id": 2,
+            "x": 0.12,
+            "y": 20.13670552433491,
+            "width": 24.285083637561502,
+            "height": 15.74329447566509,
+            "textbox_id": 1,
+            "textbox_name": "p<Experience>_t1",
+            "num_chars": 1470
+        },
+        {
+            "panel_id": 3,
+            "x": 24.645083637561502,
+            "y": 3.72,
+            "width": 23.234916362438497,
+            "height": 1.28,
+            "textbox_id": 0,
+            "textbox_name": "p<Awards & Honors>_t0",
+            "num_chars": 200
+        },
+        {
+            "panel_id": 3,
+            "x": 24.645083637561502,
+            "y": 5.0,
+            "width": 23.234916362438497,
+            "height": 8.109507367024694,
+            "textbox_id": 1,
+            "textbox_name": "p<Awards & Honors>_t1",
+            "num_chars": 600
+        },
+        {
+            "panel_id": 4,
+            "x": 24.645083637561502,
+            "y": 13.349507367024694,
+            "width": 23.234916362438497,
+            "height": 1.28,
+            "textbox_id": 0,
+            "textbox_name": "p<Responsibilities>_t0",
+            "num_chars": 200
+        },
+        {
+            "panel_id": 4,
+            "x": 24.645083637561502,
+            "y": 14.629507367024694,
+            "width": 23.234916362438497,
+            "height": 8.457687905859581,
+            "textbox_id": 1,
+            "textbox_name": "p<Responsibilities>_t1",
+            "num_chars": 600
+        },
+        {
+            "panel_id": 5,
+            "x": 24.645083637561502,
+            "y": 23.327195272884275,
+            "width": 23.234916362438497,
+            "height": 1.28,
+            "textbox_id": 0,
+            "textbox_name": "p<Volunteering>_t0",
+            "num_chars": 200
+        },
+        {
+            "panel_id": 5,
+            "x": 24.645083637561502,
+            "y": 24.607195272884272,
+            "width": 23.234916362438497,
+            "height": 4.611121953016993,
+            "textbox_id": 1,
+            "textbox_name": "p<Volunteering>_t1",
+            "num_chars": 400
+        },
+        {
+            "panel_id": 6,
+            "x": 24.645083637561502,
+            "y": 29.45831722590127,
+            "width": 23.234916362438497,
+            "height": 1.28,
+            "textbox_id": 0,
+            "textbox_name": "p<Skills>_t0",
+            "num_chars": 200
+        },
+        {
+            "panel_id": 6,
+            "x": 24.645083637561502,
+            "y": 30.73831722590127,
+            "width": 23.234916362438497,
+            "height": 5.141682774098731,
+            "textbox_id": 1,
+            "textbox_name": "p<Skills>_t1",
+            "num_chars": 400
+        }
+    ]
+}

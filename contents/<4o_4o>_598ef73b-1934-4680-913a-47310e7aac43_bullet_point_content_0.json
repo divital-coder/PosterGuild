@@ -1,0 +1,472 @@
+[
+  {
+    "title": [
+      {
+        "alignment": "center",
+        "bullet": false,
+        "level": 0,
+        "font_size": 60,
+        "runs": [
+          {
+            "text": "Bhavya Goyal's Professional and Educational Journey",
+            "bold": true
+          }
+        ]
+      }
+    ],
+    "textbox1": [
+      {
+        "alignment": "center",
+        "bullet": false,
+        "level": 0,
+        "font_size": 36,
+        "runs": [
+          {
+            "text": "Bhavya Goyal\u00b9"
+          }
+        ]
+      },
+      {
+        "alignment": "center",
+        "bullet": false,
+        "level": 0,
+        "font_size": 36,
+        "runs": [
+          {
+            "text": "\u00b9 University School of Management & Entrepreneurship, Deen Dayal Upadhyaya College"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "alignment": "left",
+        "bullet": false,
+        "level": 0,
+        "font_size": 60,
+        "runs": [
+          {
+            "text": "Education",
+            "bold": true
+          }
+        ]
+      }
+    ],
+    "textbox1": [
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Masters of Business Administration from University School of Management & Entrepreneurship."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Key courses: Management Process, Financial Accounting, Marketing Management."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Additional courses: Business Research Methods, Human Resource Management, Managerial Economics."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Advanced courses: Database Management Systems, Predictive Analytics, Pricing Analytics."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Financial courses: Financial Analytics, Investment Management, Financial Risk Management, Investment Banking."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Bachelors of Commerce Hons. from Deen Dayal Upadhyaya College, University of Delhi."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Core courses: Business Organization & Management, Financial Accounting, Micro Economics, Macro Economics."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "alignment": "left",
+        "bullet": false,
+        "level": 0,
+        "font_size": 60,
+        "runs": [
+          {
+            "text": "Experience",
+            "bold": true
+          }
+        ]
+      }
+    ],
+    "textbox1": [
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "KPMG, Business Associate (April 2025): Conducted research and developed financial models."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Federal Bank, Officer (Oct 2024 - March 2025): Optimized workflows and enhanced efficiency."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Lufthansa German Airlines, Intern (June 2023 - Aug 2023): Engineered lead generation pipelines."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Finance Intern (Dec 2022 - Feb 2023): Conducted market research and data analysis."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Chegg Inc., Subject Matter Expert (Sep 2020 - Dec 2020): Provided solutions to complex queries."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "User Testing, Software Tester (Aug 2020 - Dec 2020): Tested software applications."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "alignment": "left",
+        "bullet": false,
+        "level": 0,
+        "font_size": 60,
+        "runs": [
+          {
+            "text": "Awards & Honors",
+            "bold": true
+          }
+        ]
+      }
+    ],
+    "textbox1": [
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Mckinsey Forward Resource Recipient (Apr 2025): Recognized for core skills in adaptability, problem-solving, and communication."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "alignment": "left",
+        "bullet": false,
+        "level": 0,
+        "font_size": 60,
+        "runs": [
+          {
+            "text": "Responsibilities",
+            "bold": true
+          }
+        ]
+      }
+    ],
+    "textbox1": [
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Participated in the International Youth Neuroscience Association virtual program."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Covered various neuroscience topics.",
+            "italic": true
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Engaged as a delegate at the World Bank Youth Summit 2025."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Focused on climate action and digital transformation.",
+            "italic": true
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Represented Afghanistan at the International Model United Nations Association."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Discussed economic growth and civil rights.",
+            "italic": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "alignment": "left",
+        "bullet": false,
+        "level": 0,
+        "font_size": 60,
+        "runs": [
+          {
+            "text": "Volunteering",
+            "bold": true
+          }
+        ]
+      }
+    ],
+    "textbox1": [
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Fortis Healthcare, Pro-Social Peer Moderator (July 2014)."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Promoted adaptive life-skills among adolescents."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Utilized peer-based learning techniques."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Trained in media literacy."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "alignment": "left",
+        "bullet": false,
+        "level": 0,
+        "font_size": 60,
+        "runs": [
+          {
+            "text": "Skills",
+            "bold": true
+          }
+        ]
+      }
+    ],
+    "textbox1": [
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Expertise in Mathematical and Computational Finance."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Proficient in programming languages and tools: Excel, Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Skilled in data visualization tools: Power BI, Tableau."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Experience with Bloomberg Terminal."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Fluent in English and Hindi."
+          }
+        ]
+      }
+    ]
+  }
+]
