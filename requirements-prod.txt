@@ -1,0 +1,24 @@
+# Production requirements for Paper2Poster deployment
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+jinja2==3.1.2
+aiofiles==24.1.0
+
+# Core ML and document processing
+torch>=2.0.0
+transformers>=4.30.0
+docling
+PyPDF2
+PyMuPDF
+
+# OpenAI API
+openai>=1.0.0
+
+# Image processing
+Pillow>=9.0.0
+
+# Additional utilities
+pathlib
+python-dotenv
+requests
