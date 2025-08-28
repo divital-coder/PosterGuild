@@ -423,8 +423,7 @@ python-Levenshtein==0.26.1
 python-magic==0.4.27
 python-multipart==0.0.18
 python-oxmsg==0.0.1
-#python-pptx @ git+https://github.com/Force1ess/python-pptx@dc356685d4d210a10abe1ffab3c21315cdfae63d
-python-pptx==0.6.23
+python-pptx @ git+https://github.com/Force1ess/python-pptx@dc356685d4d210a10abe1ffab3c21315cdfae63d
 pytorch-fid==0.3.0
 pytz==2024.2
 PyYAML==6.0.2
