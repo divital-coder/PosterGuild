@@ -23,20 +23,16 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
         
-      # Optional: run tests here
-      # - name: Run tests
-      #   run: pytest
-
       - name: Upload artifact for deployment jobs
         uses: actions/upload-artifact@v4
         with:
           name: python-app
           path: |
-            frontend.py
-            requirements.txt
-            yourapp/
-            static/
-            templates/
+            .
+            !.git/
+            !__pycache__/
+            !*.pyc
+            !.env
 
   deploy:
     runs-on: ubuntu-latest
@@ -54,12 +50,13 @@ jobs:
       - name: Login to Azure
         uses: azure/login@v2
         with:
-          client-id: ${{ secrets.__clientidsecretname__ }}
-          tenant-id: ${{ secrets.__tenantidsecretname__ }}
-          subscription-id: ${{ secrets.__subscriptionidsecretname__ }}
+          client-id: ${{ secrets.AZURE_CLIENT_ID }}
+          tenant-id: ${{ secrets.AZURE_TENANT_ID }}
+          subscription-id: ${{ secrets.AZURE_SUBSCRIPTION_ID }}
 
       - name: 'Deploy to Azure Web App'
         uses: azure/webapps-deploy@v3
         with:
           app-name: 'PosterGuild'
-          slot-name: 'production'   # or remove if not using slots
+          slot-name: 'production'
+          startup-command: 'python frontend.py'
