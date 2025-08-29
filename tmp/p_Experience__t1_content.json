@@ -6,7 +6,7 @@
         "font_size": 48,
         "runs": [
             {
-                "text": "KPMG (KGS - UK Research & Insights), Delhi, India - Business Associate, Apr 2025 - Present"
+                "text": "KPMG Business Associate in Delhi, India."
             }
         ]
     },
@@ -17,7 +17,7 @@
         "font_size": 48,
         "runs": [
             {
-                "text": "Conducted market research for sector-specific strategies."
+                "text": "Conducted quantitative and qualitative research."
             }
         ]
     },
@@ -28,18 +28,7 @@
         "font_size": 48,
         "runs": [
             {
-                "text": "Developed financial models for decision-making."
-            }
-        ]
-    },
-    {
-        "alignment": "left",
-        "bullet": true,
-        "level": 1,
-        "font_size": 48,
-        "runs": [
-            {
-                "text": "Produced client-ready deliverables for partners."
+                "text": "Developed financial models and client-ready deliverables."
             }
         ]
     },
@@ -50,7 +39,7 @@
         "font_size": 48,
         "runs": [
             {
-                "text": "Federal Bank, Delhi, India - Officer, Oct 2024 - Mar 2025"
+                "text": "Federal Bank Officer in Capital Markets and Administration."
             }
         ]
     },
@@ -61,7 +50,7 @@
         "font_size": 48,
         "runs": [
             {
-                "text": "Optimized capital market operations under RBI & SEBI."
+                "text": "Optimized workflows and managed banking operations."
             }
         ]
     },
@@ -72,18 +61,7 @@
         "font_size": 48,
         "runs": [
             {
-                "text": "Managed PIS compliance and capital market settlements."
-            }
-        ]
-    },
-    {
-        "alignment": "left",
-        "bullet": true,
-        "level": 1,
-        "font_size": 48,
-        "runs": [
-            {
-                "text": "Streamlined back-office systems for risk reduction."
+                "text": "Ensured compliance with regulations."
             }
         ]
     },
@@ -94,7 +72,7 @@
         "font_size": 48,
         "runs": [
             {
-                "text": "Lufthansa German Airlines - Business Development Intern"
+                "text": "Lufthansa German Airlines Business Development Intern."
             }
         ]
     },
@@ -105,7 +83,7 @@
         "font_size": 48,
         "runs": [
             {
-                "text": "Built lead pipelines for market entry and expansion."
+                "text": "Developed lead generation pipelines and closed enterprise deals."
             }
         ]
     },
@@ -116,18 +94,7 @@
         "font_size": 48,
         "runs": [
             {
-                "text": "Closed 7 enterprise deals worth 1.4 crore."
-            }
-        ]
-    },
-    {
-        "alignment": "left",
-        "bullet": true,
-        "level": 1,
-        "font_size": 48,
-        "runs": [
-            {
-                "text": "Strengthened client relationships through engagement."
+                "text": "Built relationships with prospects."
             }
         ]
     },
@@ -138,7 +105,7 @@
         "font_size": 48,
         "runs": [
             {
-                "text": "Credain - Global Banking Simplified, Remote - Finance Intern, Dec 2022 - Feb 2023"
+                "text": "Finance Intern conducted market research and financial data analysis."
             }
         ]
     },
@@ -149,18 +116,7 @@
         "font_size": 48,
         "runs": [
             {
-                "text": "Conducted market research and financial analysis."
-            }
-        ]
-    },
-    {
-        "alignment": "left",
-        "bullet": true,
-        "level": 1,
-        "font_size": 48,
-        "runs": [
-            {
-                "text": "Designed portfolio optimization models."
+                "text": "Developed financial models and tested application reliability."
             }
         ]
     },
@@ -171,7 +127,7 @@
         "font_size": 48,
         "runs": [
             {
-                "text": "Chegg Inc., Remote - Subject Matter Expert, Sep 2020 - Dec 2020"
+                "text": "Chegg Inc. Subject Matter Expert."
             }
         ]
     },
@@ -182,7 +138,18 @@
         "font_size": 48,
         "runs": [
             {
-                "text": "Delivered 98%+ accurate solutions for business queries."
+                "text": "Provided solutions to complex queries with high accuracy."
+            }
+        ]
+    },
+    {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+            {
+                "text": "User Testing Software Tester."
             }
         ]
     }

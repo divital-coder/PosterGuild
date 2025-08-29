@@ -1,0 +1,546 @@
+[
+  {
+    "title": [
+      {
+        "alignment": "center",
+        "bullet": false,
+        "level": 0,
+        "font_size": 60,
+        "runs": [
+          {
+            "text": "Bhavya Goyal's Professional and Academic Journey",
+            "bold": true
+          }
+        ]
+      }
+    ],
+    "textbox1": [
+      {
+        "alignment": "center",
+        "bullet": false,
+        "level": 0,
+        "font_size": 36,
+        "runs": [
+          {
+            "text": "Bhavya Goyal\u00b9"
+          }
+        ]
+      },
+      {
+        "alignment": "center",
+        "bullet": false,
+        "level": 0,
+        "font_size": 36,
+        "runs": [
+          {
+            "text": "\u00b9University School of Management & Entrepreneurship, Deen Dayal Upadhyaya College, University of Delhi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "alignment": "left",
+        "bullet": false,
+        "level": 0,
+        "font_size": 60,
+        "runs": [
+          {
+            "text": "Education",
+            "bold": true
+          }
+        ]
+      }
+    ],
+    "textbox1": [
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Masters of Business Administration from University School of Management & Entrepreneurship."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Coursework includes Management Process, Financial Accounting, Marketing Management, and more."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Bachelors of Commerce Hons. from Deen Dayal Upadhyaya College."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Achieved a CGPA of 6.97/10."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "alignment": "left",
+        "bullet": false,
+        "level": 0,
+        "font_size": 60,
+        "runs": [
+          {
+            "text": "Experience",
+            "bold": true
+          }
+        ]
+      }
+    ],
+    "textbox1": [
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "KPMG Business Associate in Delhi, India."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Conducted quantitative and qualitative research."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Developed financial models and client-ready deliverables."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Federal Bank Officer in Capital Markets and Administration."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Optimized workflows and managed banking operations."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Ensured compliance with regulations."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Lufthansa German Airlines Business Development Intern."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Developed lead generation pipelines and closed enterprise deals."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Built relationships with prospects."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Finance Intern conducted market research and financial data analysis."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Developed financial models and tested application reliability."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Chegg Inc. Subject Matter Expert."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Provided solutions to complex queries with high accuracy."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "User Testing Software Tester."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "alignment": "left",
+        "bullet": false,
+        "level": 0,
+        "font_size": 60,
+        "runs": [
+          {
+            "text": "Awards & Honors",
+            "bold": true
+          }
+        ]
+      }
+    ],
+    "textbox1": [
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Recipient of McKinsey Forward Resource for Workplace Skill Enhancement."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Focus on adaptability, resilience, problem-solving, and communication."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Awarded CBSE Merit Certificate for top 0.1% performance in Class 10th."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Sponsored Cancer Awareness Program by Cancer Aid Society."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Recognized for social service and fundraising efforts."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "alignment": "left",
+        "bullet": false,
+        "level": 0,
+        "font_size": 60,
+        "runs": [
+          {
+            "text": "Responsibilities",
+            "bold": true
+          }
+        ]
+      }
+    ],
+    "textbox1": [
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Participated in the International Youth Neuroscience Association virtual program."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Served as a World Bank Youth Summit Delegate, engaging in global challenge discussions."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Developed Python programs and a capstone project as a Student-Teacher."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Represented Afghanistan as an IMUNA Delegate, focusing on economic growth and civil rights."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "alignment": "left",
+        "bullet": false,
+        "level": 0,
+        "font_size": 60,
+        "runs": [
+          {
+            "text": "Volunteering",
+            "bold": true
+          }
+        ]
+      }
+    ],
+    "textbox1": [
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Fortis Healthcare Pro-Social Peer Moderator initiative."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Promoted adaptive life-skills among adolescents."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Focused on media literacy training."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 2,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Emphasized critical thinking and emotional regulation."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "alignment": "left",
+        "bullet": false,
+        "level": 0,
+        "font_size": 60,
+        "runs": [
+          {
+            "text": "Skills",
+            "bold": true
+          }
+        ]
+      }
+    ],
+    "textbox1": [
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Proficient in Mathematical and Computational Finance."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Advanced skills in Excel and Python libraries such as Pandas, NumPy, Matplotlib, and Scikit-learn."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Experienced in SQL, Power BI, and Tableau."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Familiar with Bloomberg Terminal."
+          }
+        ]
+      },
+      {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+          {
+            "text": "Languages: English and Hindi."
+          }
+        ]
+      }
+    ]
+  }
+]

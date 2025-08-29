@@ -6,7 +6,7 @@
         "font_size": 48,
         "runs": [
             {
-                "text": "University School of Management & Entrepreneurship, 2022 - 2024"
+                "text": "Masters of Business Administration from University School of Management & Entrepreneurship."
             }
         ]
     },
@@ -17,29 +17,7 @@
         "font_size": 48,
         "runs": [
             {
-                "text": "MBA - Finance & Analytics"
-            }
-        ]
-    },
-    {
-        "alignment": "left",
-        "bullet": true,
-        "level": 1,
-        "font_size": 48,
-        "runs": [
-            {
-                "text": "CGPA: 7.08 / 10"
-            }
-        ]
-    },
-    {
-        "alignment": "left",
-        "bullet": true,
-        "level": 1,
-        "font_size": 48,
-        "runs": [
-            {
-                "text": "Key Courses: Predictive Analytics, Financial Risk Management, Investment Banking, Database Management, Python Programming."
+                "text": "Coursework includes Management Process, Financial Accounting, Marketing Management, and more."
             }
         ]
     },
@@ -50,7 +28,7 @@
         "font_size": 48,
         "runs": [
             {
-                "text": "Deen Dayal Upadhyaya College, University of Delhi, 2018 - 2021"
+                "text": "Bachelors of Commerce Hons. from Deen Dayal Upadhyaya College."
             }
         ]
     },
@@ -61,7 +39,7 @@
         "font_size": 48,
         "runs": [
             {
-                "text": "B.Com (Hons.)"
+                "text": "Achieved a CGPA of 6.97/10."
             }
         ]
     }

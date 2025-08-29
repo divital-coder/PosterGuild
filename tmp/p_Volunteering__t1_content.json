@@ -6,7 +6,7 @@
         "font_size": 48,
         "runs": [
             {
-                "text": "Fortis Healthcare, Pro-Social Peer Moderator (July 2014)."
+                "text": "Fortis Healthcare Pro-Social Peer Moderator initiative."
             }
         ]
     },
@@ -28,18 +28,18 @@
         "font_size": 48,
         "runs": [
             {
-                "text": "Utilized peer-based learning techniques."
+                "text": "Focused on media literacy training."
             }
         ]
     },
     {
         "alignment": "left",
         "bullet": true,
-        "level": 1,
+        "level": 2,
         "font_size": 48,
         "runs": [
             {
-                "text": "Trained in media literacy."
+                "text": "Emphasized critical thinking and emotional regulation."
             }
         ]
     }

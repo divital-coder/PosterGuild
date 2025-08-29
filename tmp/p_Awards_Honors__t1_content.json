@@ -6,7 +6,51 @@
         "font_size": 48,
         "runs": [
             {
-                "text": "Mckinsey Forward Resource Recipient (Apr 2025): Recognized for core skills in adaptability, problem-solving, and communication."
+                "text": "Recipient of McKinsey Forward Resource for Workplace Skill Enhancement."
+            }
+        ]
+    },
+    {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+            {
+                "text": "Focus on adaptability, resilience, problem-solving, and communication."
+            }
+        ]
+    },
+    {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+            {
+                "text": "Awarded CBSE Merit Certificate for top 0.1% performance in Class 10th."
+            }
+        ]
+    },
+    {
+        "alignment": "left",
+        "bullet": true,
+        "level": 0,
+        "font_size": 48,
+        "runs": [
+            {
+                "text": "Sponsored Cancer Awareness Program by Cancer Aid Society."
+            }
+        ]
+    },
+    {
+        "alignment": "left",
+        "bullet": true,
+        "level": 1,
+        "font_size": 48,
+        "runs": [
+            {
+                "text": "Recognized for social service and fundraising efforts."
             }
         ]
     }

@@ -13,12 +13,11 @@
     {
         "alignment": "left",
         "bullet": true,
-        "level": 1,
+        "level": 0,
         "font_size": 48,
         "runs": [
             {
-                "text": "Covered various neuroscience topics.",
-                "italic": true
+                "text": "Served as a World Bank Youth Summit Delegate, engaging in global challenge discussions."
             }
         ]
     },
@@ -29,19 +28,7 @@
         "font_size": 48,
         "runs": [
             {
-                "text": "Engaged as a delegate at the World Bank Youth Summit 2025."
-            }
-        ]
-    },
-    {
-        "alignment": "left",
-        "bullet": true,
-        "level": 1,
-        "font_size": 48,
-        "runs": [
-            {
-                "text": "Focused on climate action and digital transformation.",
-                "italic": true
+                "text": "Developed Python programs and a capstone project as a Student-Teacher."
             }
         ]
     },
@@ -52,19 +39,7 @@
         "font_size": 48,
         "runs": [
             {
-                "text": "Represented Afghanistan at the International Model United Nations Association."
-            }
-        ]
-    },
-    {
-        "alignment": "left",
-        "bullet": true,
-        "level": 1,
-        "font_size": 48,
-        "runs": [
-            {
-                "text": "Discussed economic growth and civil rights.",
-                "italic": true
+                "text": "Represented Afghanistan as an IMUNA Delegate, focusing on economic growth and civil rights."
             }
         ]
     }

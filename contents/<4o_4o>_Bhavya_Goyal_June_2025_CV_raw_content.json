@@ -1,0 +1,37 @@
+{
+    "meta": {
+        "poster_title": "Bhavya Goyal's Professional and Academic Journey",
+        "authors": "Bhavya Goyal",
+        "affiliations": "University School of Management & Entrepreneurship, Deen Dayal Upadhyaya College, University of Delhi"
+    },
+    "sections": [
+        {
+            "title": "Poster Title & Author",
+            "content": "Bhavya Goyal's Professional and Academic Journey\nBhavya Goyal\nContact: bhavyagoyal.workday@gmail.com\nPhone: +91-7011209532"
+        },
+        {
+            "title": "Education",
+            "content": "Masters of Business Administration from University School of Management & Entrepreneurship. Coursework includes Management Process, Financial Accounting, Marketing Management, Business Research Methods, Human Resource Management, Managerial Economics, Database Management Systems, Predictive Analytics, Pricing Analytics, Financial Analytics, Investment Management, Financial Risk Management, Investment Banking. Bachelors of Commerce Hons. from Deen Dayal Upadhyaya College with a CGPA of 6.97/10."
+        },
+        {
+            "title": "Experience",
+            "content": "KPMG Business Associate in Delhi, India, conducted quantitative and qualitative research, developed financial models, and created client-ready deliverables. Federal Bank Officer in Capital Markets and Administration, optimized workflows, managed banking operations, and ensured compliance. Lufthansa German Airlines Business Development Intern, developed lead generation pipelines, closed enterprise deals, and built prospect relationships. Finance Intern conducted market research and financial data analysis, developed financial models, and tested application reliability. Chegg Inc. Subject Matter Expert, provided solutions to complex queries with high accuracy. User Testing Software Tester."
+        },
+        {
+            "title": "Awards & Honors",
+            "content": "Mckinsey Forward Resource Recipient for Workplace Skill Enhancement Program focusing on adaptability, resilience, problem-solving, and communication. CBSE Merit Certificate for top 0.1% performance in Class 10th subjects. Sponsored Cancer Awareness Program by Cancer Aid Society for social service and fundraising efforts."
+        },
+        {
+            "title": "Responsibilities",
+            "content": "International Youth Neuroscience Association participant, engaged in a virtual program covering neuroscience topics. World Bank Youth Summit Delegate, participated in discussions on global challenges. Student-Teacher developed Python programs and a capstone project. IMUNA Delegate of Afghanistan, raised topics on economic growth and civil rights."
+        },
+        {
+            "title": "Volunteering",
+            "content": "Fortis Healthcare Pro-Social Peer Moderator, promoted adaptive life-skills among adolescents, trained in media literacy focusing on critical thinking and emotional regulation."
+        },
+        {
+            "title": "Skills",
+            "content": "Mathematical and Computational Finance, Advanced Excel, Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL, Power BI, Tableau, Bloomberg Terminal. Languages: English, Hindi."
+        }
+    ]
+}
