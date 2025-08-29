@@ -33,6 +33,9 @@ jobs:
             !__pycache__/
             !*.pyc
             !.env
+            !*_generated_posters/
+            !uploads/
+            !results/
 
   deploy:
     runs-on: ubuntu-latest
